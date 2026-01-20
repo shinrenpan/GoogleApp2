@@ -1,0 +1,5 @@
+{
+  "name": "ZenPomodoro",
+  "description": "A focus-enhancing Pomodoro timer with AI-powered task planning capabilities using Google Gemini.",
+  "requestFramePermissions": []
+}
